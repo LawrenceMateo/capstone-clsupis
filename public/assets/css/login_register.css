@@ -1,0 +1,48 @@
+/* SIGN IN FORM */
+.form-container {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 50px 60px;
+    margin-top: 10vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bot-margin{
+    margin-bottom: 30px;
+}
+
+
+
+#create-account {
+    margin-top: 25px;
+    text-align: center;
+    
+}
+
+#create-account a{
+    text-decoration: none;    
+    font-weight:400;
+    font-size:14px;
+    color: #1a73e8;
+}
+
+#create-account a:hover{    
+    cursor: pointer;
+}
+
+/*  REGISTRATION FORM */
+
+.reg-error-message {
+ color: #ff0000;
+ display: none;
+}
+
+.top-text{
+    margin-top:25px;
+    color:#202124;    
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+

@@ -1,0 +1,1 @@
+<script type="text/javascript" src="../../../public/assets/js/main.js"></script>
